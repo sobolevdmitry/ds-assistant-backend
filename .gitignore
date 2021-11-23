@@ -1,0 +1,18 @@
+# Python/Django
+__pycache__/
+__pypackages__/
+*.py[cod]
+*$py.class
+db.sqlite3
+.python-version
+venv/
+static/
+# IDE
+.idea/
+.DS_Store
+#
+.env
+.cache
+test.py
+var/
+*.sh
